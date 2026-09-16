@@ -11,7 +11,7 @@ public class ex8 {
         System.out.println("Digite a senha:");
         s = entrada.nextLine();
 
-        if (s.equals("j1j2")) {
+        if (s.equals("R10p5")) {
             System.out.println("acesso concedido");
         } else {
             System.out.println("acesso negado");
